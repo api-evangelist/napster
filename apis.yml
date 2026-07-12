@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.napster.com/api/v2.2
 common:
+  - type: DomainSecurity
+    url: security/napster-domain-security.yml
   - type: Website
     url: https://developer.napster.com/api/v2.2
   - type: PublicAPIsListing
