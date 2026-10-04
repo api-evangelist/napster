@@ -39,7 +39,6 @@ apis:
   - name: Napster
     description: "Music"
     humanURL: https://developer.napster.com/api/v2.2
-    baseURL: https://developer.napster.com/api/v2.2
     tags:
       - Music
     properties:
