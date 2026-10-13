@@ -1,0 +1,24 @@
+generated: '2026-10-13'
+method: searched
+checked:
+- https://azuremarketplace.microsoft.com/
+marketplace_apps: []
+edges:
+- partner_name: Microsoft Azure Marketplace
+  partner: microsoft-azure
+  partner_match: aggregator
+  type: marketplace
+  marketplace: azure-marketplace
+  channel: distribution
+  relationship: platform-app
+  direction: provider-built
+  evidence: https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=Napster%20Corp
+  listing_count: 4
+  apps:
+  - Napster Learn
+  - Napster Spaces
+  - Napster API (Azure Native)
+  - Napster for Work
+  seller_name: Napster Corp
+  detected_by: sweep-cloud-marketplaces.py
+  detected: '2026-10-13'
